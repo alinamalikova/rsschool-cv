@@ -1,6 +1,6 @@
 # Alina Malikova
 ## Contact information:
----
+
 * **Phone:** +79607824209
 * **Discord:** moosebumps
 * **E-mail:** alinamalikova.w@gmail.com
@@ -8,18 +8,18 @@
 * **Telegram:** [@moosebumps](https://t.me/moosebumps)
 
 ## About me
----
+
 I am 25. Recently discovered the world of programming. Now my goal is to learn front-end development and work in IT. I love learning new things and finding solutions to complex problems. And I believe that this will help me achieve my goal.
 
 ## Skills
----
+
 * HTML5, CSS3
 * Git, GitHub
 * VS Code
 * Adobe Photoshop
 
 ## Code example
----
+
 ```
 <!DOCTYPE html>
 <html>
@@ -33,7 +33,7 @@ I am 25. Recently discovered the world of programming. Now my goal is to learn f
 ```
 
 ## Education
----
+
 ### Courses:
 * CS50
 * HTML Academy: Basics of HTML and CSS
@@ -42,6 +42,6 @@ I am 25. Recently discovered the world of programming. Now my goal is to learn f
 * Head First HTML and CSS, by Elisabeth Robson, Eric Freeman
 
 ## Languages
----
+
 * Russian - Native
 * English - Intermediate B1
