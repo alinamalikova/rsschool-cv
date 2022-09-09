@@ -9,7 +9,7 @@
 
 ## About me
 
-I am 25. Recently discovered the world of programming. Now my goal is to learn front-end development and work in IT. I love learning new things and finding solutions to complex problems. And I believe that this will help me achieve my goal.
+I am 25. My goal is to learn front-end development and work in IT. I love learning new things and finding solutions to complex problems. And I believe that this will help me achieve my goal.
 
 ## Skills
 
