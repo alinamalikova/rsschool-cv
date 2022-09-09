@@ -152,8 +152,6 @@ padding-left: 0px;
 .example {
     display: flex;
     align-items: flex-start;
-    margin-left: -116px;
-    margin-top: -64px;
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
     line-height: 1.5;
