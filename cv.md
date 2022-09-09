@@ -29,6 +29,7 @@ const disemvowel = (str) => str.replace(/[aeiou]/gi, '')
 
 * HTML Academy: Basics of HTML and CSS
 * Code-basics: HTML, CSS, JavaScript
+* Udemy JavaScript course
 * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 
 ## Languages
